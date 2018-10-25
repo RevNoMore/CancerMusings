@@ -1,6 +1,5 @@
-# Massively
-> This is Massively, a text-heavy, article-oriented design built around a huge background
-image.
+# Rev No More
+> This is the place to read John Adams' cancer musings and mostly inappropriate thoughts and humor.
 
 ## How to Use This Theme
 Jekyll consumes themes in two flavors; gem-based or spread across multiple folders
