@@ -1,10 +1,10 @@
 # Site
-title:              Massively
-bio:                'Jekyll version of the Massively theme by HTML5UP'
-description:        "Jekyll version of the Massively theme by HTML5UP"
+title:              Rev No More
+bio:                'The cancer musings of John Adams'
+description:        "The cancer musings and inappropriate thoughts from John Adams"
 locale:             en_US
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: "revnomore.com/blog" # the subpath of your site, e.g. /blog
+url: "revnomore.com" # the base hostname & protocol for your site
 background_image:   /images/bg.jpg
 # Tip: The color palette and other styles can be configured in /_sass/lib/_vars.scss
 formspree_thankyou_page: /thank-you
@@ -44,9 +44,9 @@ instagram:          default
 github:             default
 
 # personal
-location:           Los Angeles, CA
-phone:              310-318-5555
-email:              info@default.com
+location:           Scottsdale, AZ
+phone:              213-713-9498
+email:              john@revnomore.com
 
 # Gems
 gems:
